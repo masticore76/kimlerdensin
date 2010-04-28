@@ -1,0 +1,6 @@
+[submodule "external"]
+	path = external/django-gigs
+	url = git://github.com/omat/django-gigs.git
+[submodule "external/django-gigs"]
+	path = external/django-gigs
+	url = git://github.com/omat/django-gigs.git
